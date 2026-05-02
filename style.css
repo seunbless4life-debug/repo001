@@ -1,9 +1,9 @@
 h1  {
-    color: red;
+    color: blue;
     text-align: center;
     text-transform: uppercase;
 }
 p {
     text-align: justify;
-    font-style: italic;
+    font-style: bold;
 }
